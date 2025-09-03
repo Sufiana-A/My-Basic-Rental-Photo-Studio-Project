@@ -38,7 +38,7 @@ Before running this project, make sure you have the following installed:
 
 ### Installation
 
-Build **Financial Note with Reminder – Mobile App** from the source and install dependencies:
+Clone and install dependencies:
 
 # Clone the repository
 ```bash
